@@ -1,0 +1,77 @@
+h2{
+    padding-bottom: 20px;
+        padding-top: 20px;
+        height: max-content;
+        font-size: 26px;
+        margin-bottom: 0px;
+                text-align:center;
+    }
+    div#rez {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    input{
+        border-radius: 0 0 0 0;
+        background: transparent;
+        padding: 10px 10px 10px 10px;
+        text-align: center;
+    
+        
+    }
+    .btn{
+        margin-left : 8px;
+    }
+    p{
+        font-size: 20px;
+    }
+    body{
+        background-color: #fffcf4;
+    }
+    #vis{
+        
+        display: none;
+    }
+    #input_name {
+        display: none;
+      }
+    button {
+        
+    
+        padding: 10px 10px 10px 10px;
+        border: 2px solid #464948;
+        border-radius: 0 0 0 0;
+        background: transparent;
+        font-size:18px;
+        text-align: center;
+        align-self: center;
+        orientation: center;
+     }
+     header h1{
+        padding-bottom: 20px;
+            padding-top: 20px;
+            height: max-content;
+            margin-bottom: 0px;
+                    text-align:center;
+                    color:#ffffff;
+        }
+        header{
+            background:#42c3ac;
+            margin-bottom: 20px;
+        }
+        .foot1 {
+            padding-top:1em;
+            padding-bottom:1em;
+             width: 100%;
+           background: #464948;
+           
+           }
+           footer p, a{
+            font-size: 24px;
+            color:#ffffff;
+           }
+          .foot1 a{
+              font-size: 30px;
+          }
+          .main_cont{
+            min-height: calc(75.2vh);
+          }    
